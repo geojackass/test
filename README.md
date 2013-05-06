@@ -3,4 +3,4 @@ test
 
 git2 and github test
 
-changed by local  change
+changed by remote  change
