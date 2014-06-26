@@ -1,6 +1,5 @@
 test
 ====
 
-git3 and github test
+git and github test
 
-changed by remote  change
